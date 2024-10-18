@@ -1,0 +1,33 @@
+h2{ 
+    color: black;
+    font-size: 35px;
+    font-family: "Aref Ruqaa", serif;
+}
+
+.tae {
+    color: blueviolet;
+    font-size: 19px;
+}
+ img{
+    float: left; 
+}
+.palestine1 {
+    img {
+        float: left;
+    }
+    height: 250px;
+    background-color: rgb(218, 255, 255);
+    text-align: center;
+}
+.kook{
+    height: 900px;
+    background-image: url(./img/فلسطين.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; }
+    
+.aaa{
+    clear: both;
+}
+.palestine {
+    background-color: rgb(227, 185, 255);
+}
