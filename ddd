@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./resa.css"> 
+</head>
+<body>
+    <div>
+        <div class="taekook">
+         <div class="tae"> 
+            <h1> القدس </h1> 
+            <img src="./img/القدس.jpg" alt="">
+            <div class="kook"> 
+             <p>
+                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae, voluptas. Eum omnis consectetur, atque nulla voluptatum molestias maiores quisquam consequatur excepturi dolores minus adipisci fugit laudantium ad, doloremque doloribus quasi non quae autem? Suscipit officiis numquam quas sint distinctio ullam at quis hic aperiam commodi fugiat nesciunt ipsam, libero recusandae velit harum aliquid itaque vitae. Commodi suscipit illum quis, id deleniti minus est aliquid amet quaerat fugit incidunt qui quam reiciendis aperiam dignissimos cum quae ducimus corporis exercitationem provident blanditiis temporibus officia vel. In magni laborum libero et vero fugiat natus. Velit tempora, impedit quos autem commodi soluta quae. Molestiae.
+            </p>   
+            </div>
+         </div>
+         <div class="tae">
+            <h1> جنين </h1>
+          <img src="./img/جنين.jpg">
+             <div class="kook">
+                <p>
+                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni optio voluptate excepturi, accusantium expedita accusamus obcaecati similique perferendis assumenda sequi magnam libero consequuntur quam et ex veritatis quasi quo est vel nobis dicta facilis illum nostrum molestias? A vel cum earum. Odio pariatur quae porro veritatis temporibus omnis voluptatibus repudiandae sint magni, cum laborum eveniet eius error sit, consectetur odit perferendis consequuntur reprehenderit aliquam. Exercitationem blanditiis similique quae obcaecati. Culpa aliquid sequi cum voluptate quo nam similique rerum, assumenda fugit, ipsa consequatur possimus modi. Sit provident deleniti veritatis, illo voluptatum voluptas doloremque voluptate vitae maiores soluta aperiam hic amet harum.
+                </p>
+             </div>   
+         </div>   
+         <div class="tae">
+            <h1> الخليل </h1>
+            <img src="./img/الخليل.jpg" >
+            <div class="kook">  
+             <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eum iusto corrupti obcaecati magni consequatur maiores enim illum voluptates reiciendis voluptatum ullam mollitia, iure suscipit, quae accusamus possimus porro consectetur! Aspernatur nemo deserunt eius? Porro doloribus, minus natus necessitatibus dolores assumenda quod explicabo totam, ut esse similique! A nostrum dolorem recusandae amet fugiat et doloribus ratione obcaecati rerum vero inventore commodi, vitae mollitia laborum enim rem, aliquam beatae praesentium corrupti. Delectus tenetur velit suscipit laboriosam in? Sunt, vero. Ducimus eos voluptate deleniti omnis id? Atque ab ducimus tempora enim eos maxime, reiciendis obcaecati eum aliquid illum, culpa, earum voluptates assumenda.
+             </p>
+
+            </div> 
+         </div>
+         <div class="tae">
+            <h1> طولكرم </h1>
+            <img src="./img/طولكرم.jpg" >
+            <div class="kook" > 
+             <p>
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut dolor tempora consequatur et, totam qui mollitia reprehenderit atque repellendus tempore sequi consequuntur dolore molestias dolorem quisquam eaque incidunt aut necessitatibus odio eius rem eum nostrum! Earum officiis omnis nostrum qui, id porro tenetur, sunt non beatae eligendi nam fugit numquam! Dignissimos ducimus nesciunt nulla animi, natus laboriosam, fuga nihil excepturi amet numquam vitae magni minima reiciendis. Facilis odio sequi assumenda! Eligendi, aliquid id totam nulla commodi laudantium consequatur mollitia ducimus maxime! Similique vitae dolorum quaerat maiores praesentium, commodi culpa nostrum incidunt molestiae quidem eius numquam ratione adipisci eveniet corporis? Voluptate.
+             </p>
+            </div>
+         </div>
+         <div class="tae"> 
+            <h1> نابلس </h1> 
+          <img src="./img/نابلس.jpg" >
+            <div class="kook" > 
+             <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, ullam esse reprehenderit atque sint quae unde ad modi inventore illum recusandae. Sed est eos nam numquam dicta voluptatem! Autem magnam ipsa itaque, dolorem quaerat expedita officiis quibusdam accusamus commodi neque culpa esse natus beatae nam libero dolores facere porro nesciunt alias cupiditate error. Eligendi iste cumque hic possimus animi natus facere in voluptates repellat molestiae modi magni excepturi fugiat numquam sit fugit totam maxime perferendis ratione nostrum, corrupti sed non? Reiciendis consectetur, asperiores distinctio optio labore ab suscipit ea enim quo corporis! Officia reprehenderit velit ex labore esse ipsa ullam?
+             </p>
+            </div> 
+         </div>
+         <div class="tae">
+            <h1> الرملة </h1> 
+            <img src="./img/الرملة.jpg"> 
+            <div class="kook" >
+             <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque odit veniam mollitia. Amet, voluptas iusto, quaerat, quam at quo error numquam doloribus illum excepturi nihil iste! Non placeat quo, excepturi vero molestias doloremque recusandae corporis distinctio ipsum, perferendis commodi obcaecati nostrum, iusto repudiandae cupiditate. Nulla maxime odit tempora, accusantium beatae blanditiis animi quod similique doloremque modi sed, veritatis expedita facere distinctio! Expedita et, necessitatibus aliquid dolor ex sunt vel vero maiores error totam iusto ad voluptatum. Nostrum explicabo illum nobis ullam inventore ut totam eius minima, at eligendi quaerat possimus illo. Nihil, reprehenderit cupiditate maxime fuga necessitatibus impedit id numquam.
+             </p>
+          </div>
+         </div>
+         <div class="tae"> 
+            <h1> غزة </h1>
+           <img src="./img/غزة.jpg"> 
+            <div class="kook" >
+             <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero amet fugiat, explicabo rem iusto ducimus est perferendis quasi consequatur accusantium, fuga, unde non sint. Omnis maiores sit, voluptatum cum alias illo aperiam obcaecati assumenda dolorum veritatis aliquam eum ut? Explicabo commodi, hic cum excepturi quas deleniti, nihil, vel beatae dolores ab accusamus. Quidem culpa exercitationem perspiciatis nisi magni! Sequi dolorem veritatis, cumque asperiores nulla facilis quasi commodi quae nesciunt iusto mollitia magnam amet aspernatur nam non itaque esse voluptate unde repellendus optio quaerat qui quia expedita cum? Deleniti earum obcaecati voluptatem saepe iure nostrum consequatur perferendis! Magni perspiciatis quod dolores!
+             </p>
+            </div> 
+         </div>
+         <div class="tae">
+            <h1> يافا </h1>
+            <img src="./img/يافا.jpg"> 
+            <div class="kook" > 
+             <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non cumque deserunt provident. Est consectetur nulla ea officia voluptatibus modi voluptatem, distinctio vitae consequuntur. Distinctio rerum, laborum atque enim dolorem repellendus itaque nisi pariatur quidem esse facere perspiciatis cupiditate porro ratione odio libero nobis ab. Eum et possimus voluptatibus, minus debitis commodi illo ut quos odio. Similique expedita, dolorum iste hic ab deserunt asperiores esse quam suscipit numquam? Quam, nam? Ea distinctio voluptas minima facere quos rem similique quibusdam unde quasi dignissimos. Quidem vel dolorem deserunt, quia assumenda nemo reprehenderit ullam saepe hic eligendi magnam similique nisi ea culpa esse repellendus.
+             </p>
+            </div>
+         </div>
+         <div class="tae">
+            <h1> بيسان </h1>
+            <img src="./img/بيسان.jpg"> 
+            <div class="kook" >
+             <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit optio temporibus unde fugit. Optio veniam nemo odio vel. Dolorum reprehenderit error quis tempora dolore harum, aliquam maiores numquam odit, possimus nisi voluptate vel totam ad earum sed illo quasi? Iusto doloribus ea accusantium vel laboriosam, magnam aliquam, blanditiis facere maiores esse dicta quod ipsum itaque similique aperiam culpa incidunt rerum distinctio odit iste cumque enim explicabo, sint soluta. Obcaecati vero modi velit magni eveniet cupiditate cumque exercitationem culpa deserunt maiores ipsum ut molestias ab, suscipit officiis! Tenetur, aperiam voluptates, illum deleniti beatae dicta pariatur et consequuntur, rerum aspernatur expedita at?
+             </p>
+            </div>
+         </div> 
+        </div> 
+    </div>
+</body>
+</html>
+                  
