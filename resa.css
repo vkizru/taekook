@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.taekook {
+    background-color: rgb(252, 85, 168);
+    height: 1500px;
+    width: 1500px;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 1000px;
+    border: 3px solid black;
+    display: flex;
+    gap: 100px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+div {
+    display: block;
+}
+h1 {
+    text-shadow: 5px 5px 5px green, 5px 5px 5px purple;
+    background-color: greenyellow;
+    width: 250px;
+    text-align: center;
+    box-shadow: 5px 5px 5px green, 5px 5px 5px purple;
+    font-size: 30px;
+}
+.tae {
+    background-color: rgb(194, 255, 101);
+    height: 300px;
+    width: 300px;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    overflow-y: scroll;
+    box-shadow: 7px 7px 7px green, 7px 7px 7px purple;
+    display: flex;
+    gap: 30px;
+    align-items: center; }
+img {
+  box-shadow: 5px 5px 5px green, 5px 5px 5px purple; 
+}
+.kook {
+    background-color: greenyellow;
+    box-shadow: 5px 5px 5px green, 5px 5px 5px purple;
+}
